@@ -10,7 +10,7 @@ Open the app in one of following **supported browser**
 
 [![Foo](public/images/browsers.png)](https://videolify.up.railway.app/)
 
-## https://videolify.up.railway.app/
+
 
 <br>
 
